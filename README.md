@@ -1,4 +1,4 @@
-# Supply_Chain_Management_System-
+# Supply_Chain_Management_System
 A supply chain management system provides a platform for monitoring information regarding processes involved in turning raw materials and components into final products and getting them to the customer.
 
 Choose a product of your choice, which will be managed by your supply chain management system. The system should manage the process from the raw materials to when the final product reaches the retail stores.
